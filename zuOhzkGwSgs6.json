@@ -1,0 +1,35 @@
+{
+"lives": [{
+   "name": "📺SMT 直播",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py"
+  }, {
+   "name": "📺LITV 直播",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py"
+  }, {
+   "name": "📺Judy 直播",
+   "type": 0,
+   "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u"
+  }, {
+   "name": "📺曉峰 直播",
+   "type": 0,
+   "url": "http://晓峰.azip.dpdns.org:5008/?type=m3u"
+  }, {
+   "name": "📺雷鋒 直播",
+   "type": 0,
+   "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/sub?type=m3u&token=leifeng"
+  }, {
+   "name": "📺貓盒 直播",
+   "type": 0,
+   "url": "https://files.catbox.moe/zyat7k.m3u"
+  }, {
+   "name": "📺益力多 直播",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/Gather",
+   "ua": "(Windows NT 10.0; Win64; x64) PotPlayer/25.03.21",
+   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  }
+ ]
+}
